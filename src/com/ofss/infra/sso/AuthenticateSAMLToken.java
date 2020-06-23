@@ -151,6 +151,7 @@ public class AuthenticateSAMLToken
 
           public String getPrefix(String namespaceURI)
           {
+        	  System.out.println("Bhaven here checking GIT");
             return null;
           }
 
